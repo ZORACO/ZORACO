@@ -51,15 +51,16 @@
 
 ---
 
-### 🧑‍💻 My Login Activity  
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400"/>
-</p>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoraco&show_icons=true&locale=en&layout=compact" alt="zoraco" /></p>
+</div> 
 
 ---
 
+
 ### 🌍 Connect with Me  
-<p align="left">
+<div align="center">
+  <p align="left">
   <a href="https://www.linkedin.com/zoraco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -67,7 +68,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
-
+</div>  
 ---
 
 ### 🥂 Thanks for Stopping By!  
