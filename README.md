@@ -66,6 +66,6 @@
 
 ### 🥂 Thanks for Stopping By!  
 <div align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif](https://tenor.com/search/luffy-gifs)" width="100"/>
   <p>Feel free to explore my repositories and reach out for collaborations!</p>
 </div>
