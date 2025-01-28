@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
   <h1>Hi, I'm Amit Kumar Singh 👋</h1>
-  <p>Final Year ECE Student | Cosmology Enthusiast | Aspiring Theoretical Physicist 🚀</p>
+  <p>Final Year ECE Student | ML Enthusiast | Aspiring Theoretical Physicist 🚀</p>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 
 ### ✍️ Latest Activity  
 <!--START_SECTION:activity-->
-1. 🎯 Worked on **Real-Time Image Processing** integrating IoT solutions  
+1. 🎯 Worked on **Fish Farming Project** integrating IoT solutions  
 2. 🧠 Exploring **Machine Learning models for Electronics Applications**  
 3. 💻 Developed a **Voice-Controlled Car** using Arduino  
 <!--END_SECTION:activity-->
@@ -50,25 +50,18 @@
 - 🎮 **Basketball, Cooking, and Storytelling**  
 
 ---
-
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoraco&show_icons=true&locale=en&layout=compact" alt="zoraco" /></p>
-</div> 
-
 ---
 
-
 ### 🌍 Connect with Me  
-<div align="center">
-  <p align="left">
-  <a href="https://www.linkedin.com/zoraco">
+<p align="left">
+  <a href="https://www.linkedin.com/in/zoraco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amiscisth@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
-</div>  
+
 ---
 
 ### 🥂 Thanks for Stopping By!  
