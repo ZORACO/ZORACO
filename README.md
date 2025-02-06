@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
-  <h1>Hi, I'm Amit Kumar Singh 👋</h1>
-  <p>Final Year ECE Student | ML Enthusiast | Aspiring Theoretical Physicist 🚀</p>
+  <h1>Hi, I'm Amit Kumar Singh </h1>
+  <p>Final Year ECE Student | ML Enthusiast | Aspiring Theoretical Physicist </p>
 </div>
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 - 🎓 Final-year Electronics and Communication Engineering student at **NERIST**  
 - 💡 Passionate about **Theoretical Physics**, **Cosmology**, and **Machine Learning**  
 - ⚙️ Currently exploring **Digital Circuits**, **Semiconductors**, and **Embedded Systems**  
